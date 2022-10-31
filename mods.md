@@ -22,13 +22,16 @@ Bold text in brackets like denotes a [**recommendation**] pertaining to a partic
 - [VisualV (\_CP\_ & robi29)](https://www.gta5-mods.com/misc/visualv)
 
 ## Driving
-- [Realistic Driving V (Killomate)](https://www.gta5-mods.com/vehicles/realistic-driving-v)
+- [Realistic Driving V (Killomate)](https://www.gta5-mods.com/vehicles/realistic-driving-v) [**Realistic Damage**]
 - [TurboFix (ikt)](https://www.gta5-mods.com/scripts/turbofix-2)
 - [Manual Transmission (ikt)](https://www.gta5-mods.com/scripts/manual-transmission-ikt)
 - [Custom Gear Ratios (ikt)](https://www.gta5-mods.com/scripts/custom-gear-ratios)
 - [Dial Accuracy Fix (ikt)](https://www.gta5-mods.com/scripts/dial-accuracy-fix)
 - [Glowing Brake Discs (ikt)](https://www.gta5-mods.com/scripts/glowing-brake-discs)
+- [LeFix Simple Fuel (ikt)](https://www.gta5-mods.com/scripts/lefix-simple-fuel) (optional)
 
 ## Map
 - [Forests of San Andreas: Revised/Ultimate (Larcius)](https://www.gta5-mods.com/maps/forests-of-san-andreas-revised)
 - [Atlas/Colored Map 16K (LorenVidican)](https://www.gta5-mods.com/misc/atlas-colored-map-16k-that-also-works-in-radar)
+- [SPA II (I'm Not MentaL)](https://www.gta5-mods.com/scripts/single-player-apartment-spg-net)
+- [ImNotMentaL's Premium Deluxe Motorsport Updated (weeweewoowo1122)](https://www.gta5-mods.com/misc/imnotmental-s-premium-deluxe-motorsport-updated-criminal-enterprises)
