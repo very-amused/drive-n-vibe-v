@@ -22,12 +22,14 @@ Bold text in brackets like denotes a [**recommendation**] pertaining to a partic
 - [VisualV (\_CP\_ & robi29)](https://www.gta5-mods.com/misc/visualv)
 
 ## Driving
-- [Realistic Driving V (Killomate)](https://www.gta5-mods.com/vehicles/realistic-driving-v) [**Realistic Damage**]
+- [Realistic Driving V (Killomate)](https://www.gta5-mods.com/vehicles/realistic-driving-v) [**Increased Deformation, Real Topspeed**]
 - [TurboFix (ikt)](https://www.gta5-mods.com/scripts/turbofix-2)
 - [Manual Transmission (ikt)](https://www.gta5-mods.com/scripts/manual-transmission-ikt)
 - [Custom Gear Ratios (ikt)](https://www.gta5-mods.com/scripts/custom-gear-ratios)
+- [DashHook (ikt)](https://www.gta5-mods.com/tools/dashhook)
 - [Dial Accuracy Fix (ikt)](https://www.gta5-mods.com/scripts/dial-accuracy-fix)
 - [Glowing Brake Discs (ikt)](https://www.gta5-mods.com/scripts/glowing-brake-discs)
+- [Custom Vehicle Engine Sounds (Aquaphobic & Met_UwUboi)](https://www.gta5-mods.com/vehicles/brabus-inspired-custom-engine-sound-add-on-sound)
 - [LeFix Simple Fuel (ikt)](https://www.gta5-mods.com/scripts/lefix-simple-fuel) (optional)
 
 ## Map
